@@ -1,0 +1,17 @@
+From: "Your Bank - Important" <support@secure-bank.com>
+To: you@example.com
+Subject: Urgent: Verify Your Bank Account Now
+Date: Mon, 20 Oct 2025 08:12:03 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We detected unusual activity on your account. To avoid temporary suspension, <b>verify your account immediately</b> by clicking the secure link below:</p>
+<p><a href="http://malicious.example/login">https://secure-bank.com/verify</a></p>
+<p>Failure to verify within 24 hours will result in account suspension.</p>
+<p>Thank you,<br/>Secure Bank Support Team</p>
+</body>
+</html>

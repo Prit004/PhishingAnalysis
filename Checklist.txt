@@ -1,0 +1,9 @@
+[1] Saved original email (.eml)
+[2] Extracted and pasted full headers
+[3] Checked SPF/DKIM/DMARC in headers
+[4] Geolocated originating IP (optional)
+[5] Hovered and documented all links (screenshots)
+[6] Examined attachments (filenames/types noted)
+[7] Noted urgency/threat language & spelling errors
+[8] Generated final summary + remediation steps
+[9] Included screenshots and artifacts in submission

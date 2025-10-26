@@ -1,0 +1,15 @@
+Received: from unknown (HELO mailserver) (203.0.113.45) by mx.example.com
+with SMTP; Mon, 20 Oct 2025 08:11:55 +0000
+From: "Your Bank - Important" <support@secure-bank.com>
+Return-Path: <notify@scure-bank.net>
+Reply-To: support@secure-bank-secure.com
+Received-SPF: fail (domain of secure-bank.com does not designate 203.0.113.45
+as permitted sender)
+Authentication-Results: mx.example.com; dkim=none; spf=fail; dmarc=fail
+
+Analysis:
+• SPF failed, DKIM none, DMARC failed.
+• Reply-To mismatched with From.
+• Originating IP (203.0.113.45) not associated with the bank.
+
+
